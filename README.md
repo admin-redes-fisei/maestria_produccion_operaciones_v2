@@ -31,18 +31,18 @@ Para la configuración e instalación del sistema, necesitas:
 
 Para instalar y empezar con la configuración en tu máquina local, es necesario primero clonar el repositorio en la terminal de Git Bash de la siguiente manera:
 
-
+```
 git clone https://github.com/admin-redes-fisei/maestria_produccion_operaciones_v2.git
-
+```
 
 Después de clonar el repositorio en tu máquina local ingresas a la carpeta, con el comando:
-
+```
 cd maestria_produccion_operaciones_v2
-
+```
 
 Luego en el Visual Studio Code abres hasta la carpeta del repositorio, y en el archivo index.html empiezas con la configuración de la página.
 
-## Construido con 🛠
+## Construido con 🛠️
 
 Las herramientas utilizadas en este proyecto son:
 
@@ -77,13 +77,13 @@ Las herramientas utilizadas en este proyecto son:
 <p align="justify">Es un popular framework front-end de código abierto para desarrollar aplicaciones web y sitios web responsive y móviles primero.</p>
 
 
-## Autores ✒
+## Autores ✒️
 
-* *Eduardo Punina* - <a href="https://github.com/edupunina">
+* **Eduardo Punina** - <a href="https://github.com/edupunina">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20" style="margin-right: 20px;" />
   </a>
 
-* *Michelle Tunja* -<a href="https://github.com/Ale-2906">
+* **Michelle Tunja** -<a href="https://github.com/Ale-2906">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20" style="margin-right: 20px;" />
   </a>
 
